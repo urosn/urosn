@@ -1,4 +1,4 @@
-### Hi there 👋
+### Uroš Nedić (Урош Недић)= 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn" /> </p>
 
