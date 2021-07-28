@@ -21,7 +21,7 @@ Welcome to my profile page. Bellow you can find links to my profile on other por
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I am supporter of functional programming ideas
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>    
 
 <a href="https://github.com/urosn">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=urosn&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=urosn&show_icons=true&theme=light&line_height=27" alt="Github stats"/>
 </a>
