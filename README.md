@@ -1,6 +1,6 @@
 ### Uroš Nedić (Урош Недић) Profile
 
- <img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn" /> 
+<img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn" /> 
 <a href="https://twitter.com/urosn">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
