@@ -7,7 +7,7 @@
 ### Uroš Nedić (Урош Недић) Profile
 
 Welcome to my profile page. Bellow you can find links to my profile on other portals, blog and Telegram contact. Further bellow you can read about my skills and projects I am working on. Keep in mind this whole page is still WIP!
-
+<br/>
 <div class="row">
   <div class="column">
     <img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn" style="width:100%"/> 
