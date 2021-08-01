@@ -1,17 +1,31 @@
 ### Uroš Nedić (Урош Недић) Profile
 
-Welcome to my profile page. Bellow you can find links to my profile on other portals and ways to contact me. After that you can read about my skills and projects I am working on. Keep in mind whole this page is WIP.
+Welcome to my profile page. Bellow you can find links to my profile on other portals, blog and Telegram contact. Further bellow you can read about my skills and projects I am working on. Keep in mind this whole page is still WIP!
 
-<img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn" /> 
-<a href="https://twitter.com/urosn">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/urosn">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/urosn">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+<div class="row">
+  <div class="column">
+    <img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn" /> 
+  </div>
+  <div class="column">
+     <a href="https://twitter.com/urosn">
+       <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+     </a>
+  </div>
+  <div class="column">
+    <a href="https://linkedin.com/in/urosn">
+      <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+  </div>
+  <div class="column">  
+     <a href="https://t.me/urosn">
+      <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+     </a>
+  </div>
+</div>
+
+
+
+
 <br/>
 
 <!--
