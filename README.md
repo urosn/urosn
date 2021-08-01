@@ -1,48 +1,43 @@
+
+<!--
+**urosn/urosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+
 ### Uroš Nedić (Урош Недић) Profile
 
 Welcome to my profile page. Bellow you can find links to my profile on other portals, blog and Telegram contact. Further bellow you can read about my skills and projects I am working on. Keep in mind this whole page is still WIP!
 
 <div class="row">
   <div class="column">
-    <img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn" /> 
+    <img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn" style="width:100%"/> 
   </div>
   <div class="column">
      <a href="https://twitter.com/urosn">
-       <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+       <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="width:100%"/>
      </a>
   </div>
   <div class="column">
     <a href="https://linkedin.com/in/urosn">
-      <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+      <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width:100%"/>
     </a>
   </div>
   <div class="column">  
      <a href="https://t.me/urosn">
-      <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+      <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="width:100%" />
      </a>
   </div>
 </div>
 
-
-
-
 <br/>
 
-<!--
-**urosn/urosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Here are some ideas to get you started:
 
 
-- 🔭 I am supporter of functional programming ideas
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 My professional knowledge lives in between mathematics and computer science and machine learning. At the same time I am strong supporter of functional programming tehcniques in software development
+- 🌱 Have idea to develop **brand new advanced programming language** capable to be used for high level and for low level programming, who is fast (simmliar speed to C), verifiable (correctnes and space-time constraines), effective (requires reasonable ammount of time to write code) and can express classic, probabillistic and quantum progams.
+- 👯 I’m looking to collaborate on this project with any ethical and legal company willing to sponsor me.
+- 💬 Ask me about anything related to ML and CS topics.
+
 
 
 **Languages and Tools:**  
