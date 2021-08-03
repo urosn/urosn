@@ -22,8 +22,8 @@ Welcome to my profile page. Bellow you can find links to my profile on other por
 <br/>
 
 
-- 🔭 My professional knowledge lives in between mathematics and computer science and machine learning. At the same time I am strong
-supporter of functional programming tehcniques in software development
+- 🔭 My professional knowledge lives in between mathematics, computer science and machine learning. At the same time I am strong
+supporter of functional programming techniques in software development
 - 🌱 Have idea to develop **brand new advanced programming language** capable to be used for high level and for low level programming, who is fast (simmliar speed to C), verifiable (correctnes and space-time constraines), effective (requires reasonable ammount of time to write code) and can express classic, probabillistic and quantum progams.
 - 👯 I’m looking to collaborate on this project with any ethical and legal company willing to sponsor me.
 - 💬 Ask me about anything related to ML and CS topics.
