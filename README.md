@@ -11,11 +11,11 @@ Welcome to my profile page. Bellow you can find links to my profile on other por
 <br/>
 
 <div class="row">
-  <div class="column"><img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn" style="width:100%"/> </div>
+  <div class="column"><img src="https://komarev.com/ghpvc/?username=urosn&label=Views&color=blue&style=plastic" alt="urosn"/> </div>
   <div class="column"><a href="https://twitter.com/urosn"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"</a></div>
-  <div class="column"><a href="https://linkedin.com/in/urosn"><img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width:100%"/></a></div>
-  <div class="column">  <a href="https://t.me/urosn"><img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="width:100%" /></a></div>
-  <div class="column"><a href="https://urosn.github.io"><img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="width:100%"/></a></div>
+  <div class="column"><a href="https://linkedin.com/in/urosn"><img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></div>
+  <div class="column">  <a href="https://t.me/urosn"><img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"  /></a></div>
+  <div class="column"><a href="https://urosn.github.io"><img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a></div>
 </div>
 
 
